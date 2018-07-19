@@ -1,0 +1,16 @@
+PODS:
+  - StorageManager (0.1.4)
+
+DEPENDENCIES:
+  - StorageManager (~> 0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - StorageManager
+
+SPEC CHECKSUMS:
+  StorageManager: d16d38ec8f988ece2de6a1d78c3d10352289870f
+
+PODFILE CHECKSUM: d21c86654d8f32c26a3ba4e3b84580e82194d772
+
+COCOAPODS: 1.5.2
